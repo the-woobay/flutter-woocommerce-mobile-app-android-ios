@@ -18,7 +18,7 @@ Woobay is an app that connects WooCommerce store to the mobile app. It contains 
 Get more sales :slightly_smiling_face:
 
 ## What's Included?
-- Version: 2.5.0 – Support new Flutter 2.5
+- Version: 2.5.0 – Support new Flutter 3.10
 - Last update: 14 Oct 2021 ​- <a title="Woobay - Change Log" href="https://github.com/the-woobay/flutter-woocommerce-mobile-app/blob/main/CHANGELOG.md">CHANGELOG.md</a>
 - Files Included: Full Flutter Source code (iOS & Android), and WordPress Plugin
 - Readable Code and Easy to Customize
